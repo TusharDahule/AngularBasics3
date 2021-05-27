@@ -1,4 +1,5 @@
-# MyFirstApp
+# Demo App for directives
+Directives are covered extensively in this App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
